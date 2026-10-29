@@ -1,0 +1,6 @@
+{
+  "name": "CampusBite - Smart Digital College Canteen Platform",
+  "description": "Skip the queue. Browse authentic campus menus, customize orders, reserve pickup slots, pay online, and track orders with live token updates.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
