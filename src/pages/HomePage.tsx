@@ -452,10 +452,10 @@ export const HomePage: React.FC = () => {
           <div className="grid grid-cols-1 md:grid-cols-4 gap-8 mb-8">
             <div className="space-y-3">
               <div className="text-lg font-extrabold text-emerald-900">
-                Campus<span className="text-amber-600">Bite</span>
+                MJPRU <span className="text-amber-600">Cafeteria</span>
               </div>
               <p className="text-xs text-stone-500 leading-relaxed">
-                Smart digital college canteen platform reducing wait times and providing seamless advance meal pickups for university students.
+                Smart digital university cafeteria platform reducing wait times and providing seamless advance meal pickups for MJPRU students.
               </p>
               <div className="text-xs text-stone-400">
                 Operated in partnership with {canteenSettings.institutionName}
@@ -502,7 +502,7 @@ export const HomePage: React.FC = () => {
           </div>
 
           <div className="pt-6 border-t border-stone-200 text-xs text-stone-400 flex flex-col sm:flex-row items-center justify-between gap-4">
-            <div>© {new Date().getFullYear()} CampusBite Platform. All rights reserved.</div>
+            <div>© {new Date().getFullYear()} MJPRU Cafeteria. All rights reserved.</div>
             <div className="flex items-center gap-4">
               <span>Prices in Indian Rupees (INR, ₹)</span>
               <span>·</span>

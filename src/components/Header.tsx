@@ -84,8 +84,8 @@ export const Header: React.FC = () => {
               <UtensilsCrossed className="w-5 h-5" />
             </div>
             <div>
-              <span className="text-xl font-extrabold tracking-tight text-emerald-900">Campus<span className="text-amber-600">Bite</span></span>
-              <span className="block text-[10px] uppercase tracking-wider font-semibold text-stone-500 leading-none">Smart College Canteen</span>
+              <span className="text-xl font-extrabold tracking-tight text-emerald-900">MJPRU <span className="text-amber-600">CAFETERIA</span></span>
+              <span className="block text-[10px] uppercase tracking-wider font-semibold text-stone-500 leading-none">Smart Campus Dining</span>
             </div>
           </button>
 

@@ -739,9 +739,9 @@ export const INITIAL_COUPONS: Coupon[] = [
 ];
 
 export const INITIAL_CANTEEN_SETTINGS: CanteenSettings = {
-  canteenName: 'Central Student Activity Canteen',
-  institutionName: 'National Institute of Technology & Engineering',
-  counterLocation: 'Block B Ground Floor, Central Plaza',
+  canteenName: 'MJPRU Central Cafeteria',
+  institutionName: 'Mahatma Jyotiba Phule Rohilkhand University (MJPRU)',
+  counterLocation: 'Student Activity Centre (SAC) Ground Floor, MJPRU Campus',
   openingTime: '08:00 AM',
   closingTime: '09:00 PM',
   isOpen: true,
@@ -750,7 +750,7 @@ export const INITIAL_CANTEEN_SETTINGS: CanteenSettings = {
   slotIntervalMin: 15,
   bufferMinutes: 5,
   cashOnPickupEnabled: true,
-  announcement: 'Fresh batch of Amritsari Chole Bhature and Filter Coffee is ready at Counter 1 & 2!',
+  announcement: 'Welcome to MJPRU Cafeteria! Fresh meals and snacks ready at Counter 1 & 2.',
 };
 
 export const INITIAL_USER: UserProfile = {
@@ -759,9 +759,9 @@ export const INITIAL_USER: UserProfile = {
   email: 'harshu0441m@gmail.com',
   role: 'student',
   phone: '+91 98765 43210',
-  collegeName: 'National Institute of Technology & Engineering',
-  department: 'Computer Science & Engineering',
-  rollNumber: '2023CSB0441',
+  collegeName: 'Mahatma Jyotiba Phule Rohilkhand University (MJPRU)',
+  department: 'Computer Science & Information Technology',
+  rollNumber: '2023MJPRU0441',
   favorites: ['prod-01', 'prod-02', 'prod-10', 'prod-06'],
 };
 
